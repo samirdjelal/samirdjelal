@@ -1,10 +1,15 @@
 ### Hello World 👋
 
+<br>
+
 I'm Samir, Web Designer, Full Stack Developer, Freelancer 🚀.
 
 Studying Software Engineering 👌.
 
 Making Awesome Apps For Everything 📱 💻 🌐.
+
+<br>
+<hr>
 
 - 🔭 I’m currently working on etfixer (Email Template Fixer).
 
