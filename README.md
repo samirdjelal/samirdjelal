@@ -1,4 +1,4 @@
-<img src="photo.png" align="left" />
+<img src="https://raw.githubusercontent.com/samirdjelal/samirdjelal/master/photo.png" align="right" />
 
 ### Hello World 👋
 
