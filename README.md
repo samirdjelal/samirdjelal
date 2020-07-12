@@ -1,3 +1,5 @@
+<img src="photo.png" align="left" />
+
 ### Hello World 👋
 
 <br>
