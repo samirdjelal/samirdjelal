@@ -11,11 +11,14 @@ Studying Software Engineering 👌.
 Making Awesome Apps For Everything 📱 💻 🌐.
 
 <br>
+
+<!--
+
+<br>
 <hr>
 
 - 📫 How to reach me: samiir@hey.com
 
-<!--
 **samirdjelal/samirdjelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,3 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=samirdjelal&theme=radical&show_icons=true" />
