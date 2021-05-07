@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=samirdjelal&show_icons=true&icon_color=ffc107&text_color=ffffff&title_color=ffc107&bg_color=292d2d&border_color=ffc107" />
+<img src="https://github-readme-stats.vercel.app/api?username=samirdjelal&show_icons=true&icon_color=ffc107&text_color=ffffff&title_color=ffc107&bg_color=212727&border_color=ffc107" />
