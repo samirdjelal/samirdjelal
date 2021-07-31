@@ -5,7 +5,7 @@
 ```
 
     I'm Samir, Software Engineer ⚡ Problem Solver 🐞
-    Working as Freelancer as Web Designer and Full Stack Developer.
+    Freelancer Web Designer and Full Stack Developer.
     Making Awesome Apps For Everything 📱 💻 🌐.
 
     Interested in :
