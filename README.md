@@ -1,36 +1,31 @@
-<img src="https://raw.githubusercontent.com/samirdjelal/samirdjelal/master/profile.png" align="left" />
-
 ### Hello World 👋
+ 
+<table>
+  <tr>
+  <td><img src="https://raw.githubusercontent.com/samirdjelal/samirdjelal/master/profile.png" align="left" /></td>
+  <td>
+
+    I'm Samir, Web Designer, Full Stack Developer.
+    Software Engineer ⚡ Problem Solver 🐞
+    Making Awesome Apps For Everything 📱 💻 🌐.
+
+    Interested in :
+    - ⚡ Web Technologies.
+    - ⚡ Cross-platform Desktop Apps.
+    - ⚡ Systems Programming.
+    - ⚡ Embedded systems and IoT.
+    - ⚡ Networking.
+    - ⚡ Information Security.
+
+
+    📫 Reach me at: ssdjelal@gmail.com
+
+  </td>
+  </tr>
+
+<table>
 
 <br>
 
-I'm Samir, Web Designer, Full Stack Developer, Freelancer 🚀.
-
-Studying Software Engineering 👌.
-
-Making Awesome Apps For Everything 📱 💻 🌐.
-
-- 📫 How to reach me: ssdjelal@gmail.com
-
-<br>
-
-<!--
-
-<br>
-<hr>
-
-**samirdjelal/samirdjelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <img src="https://github-readme-stats.vercel.app/api?username=samirdjelal&show_icons=true&icon_color=ffc107&text_color=ffffff&title_color=ffc107&bg_color=1c1c1c&border_color=543f00" />
