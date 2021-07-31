@@ -1,10 +1,8 @@
+<img src="https://raw.githubusercontent.com/samirdjelal/samirdjelal/master/profile.png" align="left" />
+
 ### Hello World 👋
  
-<table>
-  <tr>
-  <td><img src="https://raw.githubusercontent.com/samirdjelal/samirdjelal/master/profile.png" align="left" /></td>
-  <td>
-
+```
     I'm Samir, Web Designer, Full Stack Developer.
     Software Engineer ⚡ Problem Solver 🐞
     Making Awesome Apps For Everything 📱 💻 🌐.
@@ -19,11 +17,8 @@
 
 
     📫 Reach me at: ssdjelal@gmail.com
-
-  </td>
-  </tr>
-
-<table>
+    
+```
 
 <br>
 
