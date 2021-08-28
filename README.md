@@ -25,7 +25,7 @@
     My favourite programming languages :
      - ⚡ Rust
      - ⚡ PHP
-     - ⚡ Javascript/TypeScript (NodeJS/Deno)
+     - ⚡ JavaScript/TypeScript (NodeJS/Deno)
      - ⚡ Python
     
     📫 Reach me at: ssdjelal@gmail.com
