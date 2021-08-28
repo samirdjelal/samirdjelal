@@ -22,6 +22,12 @@
     - ⚡ UI/UX Design
     - ⚡ Security
     
+    My favourite programming languages :
+     - ⚡ Rust
+     - ⚡ PHP
+     - ⚡ Javascript/TypeScript (NodeJS/Deno)
+     - ⚡ Python
+    
     📫 Reach me at: ssdjelal@gmail.com
     
 ```
