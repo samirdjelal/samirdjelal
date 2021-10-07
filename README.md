@@ -11,7 +11,7 @@
     Interested in :
     - ⚡ Web Technologies.
     - ⚡ Cross-platform GUI/CLI Desktop Apps.
-    - ⚡ Cross-platform Mobile Apps.
+    - ⚡ iOS/Android Apps.
     - ⚡ Systems Programming.
     - ⚡ Embedded systems and IoT.
     - ⚡ Networking.
