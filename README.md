@@ -23,10 +23,10 @@
     - ⚡ Security
     
     My favourite programming languages :
-     - ⚡ Rust
-     - ⚡ PHP
-     - ⚡ JavaScript/TypeScript (NodeJS/Deno/Frontend)
-     - ⚡ Python/MicroPython
+    - ⚡ Rust
+    - ⚡ PHP
+    - ⚡ JavaScript/TypeScript (NodeJS/Deno/Frontend)
+    - ⚡ Python/MicroPython
     
     📫 Reach me at: ssdjelal@gmail.com
     
