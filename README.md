@@ -25,9 +25,7 @@
     My favourite programming languages :
     - ⚡ Rust 🦀
     - ⚡ PHP 🐘
-    - ⚡ JavaScript / TypeScript 🟨
-       -  NodeJS, Deno, Electron
-       -  ReactJS, React Native, VueJS
+    - ⚡ JavaScript / TypeScript
     - ⚡ Python / MicroPython 🐍
     
     📫 Reach me at: ssdjelal@gmail.com
