@@ -18,15 +18,17 @@
     - ⚡ Information Security.
 
     I focus on :
-    - ⚡ Performance
-    - ⚡ UI/UX Design
-    - ⚡ Security
+    - ⚡ Performance ⚡
+    - ⚡ UI/UX Design 🖌️
+    - ⚡ Security 🛡️
     
     My favourite programming languages :
-    - ⚡ Rust
-    - ⚡ PHP
-    - ⚡ JavaScript/TypeScript (NodeJS/Deno/Frontend)
-    - ⚡ Python/MicroPython
+    - ⚡ Rust 🦀
+    - ⚡ PHP 🐘
+    - ⚡ JavaScript / TypeScript 🟨
+       -  NodeJS, Deno, Electron
+       -  ReactJS, React Native, VueJS
+    - ⚡ Python / MicroPython 🐍
     
     📫 Reach me at: ssdjelal@gmail.com
     
@@ -35,4 +37,4 @@
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=samirdjelal&show_icons=true&icon_color=ffc107&text_color=ffffff&title_color=ffc107&bg_color=1c1c1c&border_color=543f00" />
+![Samir Djelal's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirdjelal&show_icons=true&icon_color=ffc107&&bg_color=30,2b2950,1d1c2f&title_color=fdd641&text_color=ddd&border_color=1d1b38)
