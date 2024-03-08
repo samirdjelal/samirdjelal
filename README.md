@@ -34,5 +34,5 @@
 
 <br>
 
-
-![Samir Djelal's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirdjelal&show_icons=true&icon_color=ffc107&&bg_color=30,2b2950,1d1c2f&title_color=fdd641&text_color=ddd&border_color=1d1b38)
+![Samir Djelal's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirdjelal&count_private=true&include_all_commits=true&show_icons=true&icon_color=df6d74&&bg_color=30,0d1117,0d1117&title_color=e4bf7a&text_color=cfab67&border_color=0d1117)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samirdjelal&theme=onedark-duo&hide_border=true&card_width=467)](https://git.io/streak-stats)
