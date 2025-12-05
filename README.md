@@ -4,31 +4,35 @@
  
 ```
 
-    I'm Samir, Software Engineer ⚡ Problem Solver 🐞
-    Freelancer Web Designer and Full Stack Developer.
-    Making Awesome Apps For Everything 📱 💻 🌐.
-
-    Interested in :
-    - ⚡ Web Technologies.
-    - ⚡ Cross-platform GUI/CLI Desktop Apps.
-    - ⚡ iOS/Android Apps.
-    - ⚡ Systems Programming.
-    - ⚡ Embedded systems and IoT.
-    - ⚡ Networking.
-    - ⚡ Information Security.
-
-    I focus on :
-    - ⚡ Performance ⚡
-    - ⚡ UI/UX Design 🖌️
-    - ⚡ Security 🛡️
-    
-    My favourite programming languages :
-    - ⚡ Rust 🦀
-    - ⚡ PHP 🐘
-    - ⚡ JavaScript / TypeScript
-    - ⚡ Python / MicroPython 🐍
-    
-    📫 Reach me at: ssdjelal@gmail.com
+   I'm Samir, a Software Engineer ⚡ Problem Solver 🐞.
+   I build high-performance, secure, and scalable applications
+     across web, mobile, desktop, and systems platforms.
+   
+   I’m passionate about creating reliable and efficient solutions —
+     from enterprise integrations to cross-platform apps,
+     embedded systems, and information security.
+   
+   Interested In
+   - ⚡ Enterprise Architecture
+   - ⚡ DevSecOps & Cloud Security
+   - ⚡ Observability & Error Tracking
+   - ⚡ CI/CD & Platform Engineering
+   - ⚡ Systems Design & Integrations
+   - ⚡ High-Performance Web Platforms
+   - ⚡ Mobile & Cross-platform Apps
+   
+   I Focus On
+   - 🛡️ Reliability, Security & Scalability
+   - ⚡ Performance & Efficiency
+   - 🧩 Developer Experience & Clean Architecture
+   - 🎨 UI/UX Design
+   
+   Favorite Languages
+   - 🦀 Rust
+   - 🐘 PHP
+   - JavaScript / TypeScript
+   - 🐍 Python / MicroPython
+   - 📫 Reach me at: ssdjelal@gmail.com
     
 ```
 
