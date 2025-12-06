@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/samirdjelal/samirdjelal/master/profile.png" align="left" />
+<!-- <img src="https://raw.githubusercontent.com/samirdjelal/samirdjelal/master/profile.png" align="left" /> -->
 
 ### Hello World 👋
  
