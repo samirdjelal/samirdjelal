@@ -32,7 +32,8 @@
    - 🐘 PHP
    - JavaScript / TypeScript
    - 🐍 Python / MicroPython
-   - 📫 Reach me at: ssdjelal@gmail.com
+
+   📫 Reach me at: ssdjelal@gmail.com
     
 ```
 
